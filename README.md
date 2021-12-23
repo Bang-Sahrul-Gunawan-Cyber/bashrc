@@ -1,5 +1,5 @@
 # Bashrc custom Your Terminal
 
-#Tidak Ada Instalisasi Package
+Tidak Ada Instalisasi Package
 
-#Cukup Copy Text Nya
+Cukup Copy Text Nya
